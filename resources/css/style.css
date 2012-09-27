@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+/*se hace un reset de la interfaz*/
+@import url("agcss/reset.css");
+
+/*css con los datos de la estructura*/
+@import url("agcss/structure.css");
